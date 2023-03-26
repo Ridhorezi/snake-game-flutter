@@ -1,6 +1,6 @@
 # snake_game_flutter
 
-A new Flutter project.
+Latihan logic dart studi kasus game ular.
 
 ## Getting Started
 
